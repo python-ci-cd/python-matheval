@@ -6,4 +6,4 @@ It is a python-based web service that evaluates a tree of mathematical expresion
 
 which corresponds to (2 + 3) * 4, into the result, 20.
 
-It is a flask application, packaged with [dh-virtualenv](https://github.com/spotify/dh-virtualenv), run by [gunicorn](http://docs.gunicorn.org/en/stable/) and controlled through systemd.
+It is a flask application, packaged with [dh-virtualenv](https://github.com/spotify/dh-virtualenv), run by [gunicorn](http://gunicorn.org/) and controlled through systemd.
