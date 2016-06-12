@@ -9,7 +9,7 @@ setup(name='matheval',
       author_email='moritz.lenz@gmail.com',
       url='https://deploybook.com/',
       package_dir={'': 'src'},
-      requires=['flask', 'nose'],
+      requires=['flask', 'nose', 'gunicorn'],
       test_suite='nose.collector',
       packages=['matheval']
      )

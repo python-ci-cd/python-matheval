@@ -5,7 +5,7 @@ MANIFEST
 debian/debhelper-build-stamp
 debian/files
 debian/python-matheval.debhelper.log
-debian/python-matheval.postinst.debhelper
+debian/python-matheval.*.debhelper
 debian/python-matheval.substvars
 debian/python-matheval/
 src/matheval.egg-info/
